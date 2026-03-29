@@ -2,10 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" alt="header" />
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; display: flex; justify-content: center; align-items: center;"> 
-      <img width="240" height="240" alt="devIcon png" src="https://github.com/user-attachments/assets/32cc1f1a-9c40-493a-a1e8-2c1bf86dc54e" />
+    <img src="https://github.com/user-attachments/assets/32cc1f1a-9c40-493a-a1e8-2c1bf86dc54e" width="30" height="30" style="margin-right: 10px;">
     다재다능한 개발자가 되기위해!
   </h2>
-
 
   <div style="font-weight: 700; font-size: 15px; color: #282d33; line-height: 1.6;"> 
     좋은 질문이 좋은 코드를 만든다고 생각합니다.<br> 
