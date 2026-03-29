@@ -4,7 +4,7 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 다재다능한 개발자가 되기위해! </h2>
   <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
     좋은 질문이 좋은 코드를 만든다고 생각합니다.<br> 
-    끊임없이 '왜?'라고 묻고 그 답을 기술로 증명해내며 선택의 이유를 설명할 수 있는 개발자가 되겠습니다. 
+    끊임없이 <b><i>'왜?'</i></b>라고 묻고 그 답을 기술로 증명해내며 선택의 이유를 설명할 수 있는 개발자가 되겠습니다. 
   </div>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
@@ -15,20 +15,21 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
-  <br>
-  <br>
+  <br><br>
+
   <p><b>Backend</b></p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  <br>
-  <br>
+  <br><br>
+
   <p><b>Tools</b></p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <br>
+
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
   <br>
   <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank">
