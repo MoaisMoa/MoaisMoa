@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 다재다능한 개발자가 되기위해! </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 다재다능한 개발자가 되기위해!🧑‍💻 </h2>
   <div style="font-weight: 700; font-size: 15px; color: #282d33; line-height: 1.6;"> 
     좋은 질문이 좋은 코드를 만든다고 생각합니다.<br> 
     끊임없이 <b><i>'왜?'</i></b>라고 묻고 선택의 이유를 논리적으로 설명할 수 있는 개발자가 되겠습니다. 
