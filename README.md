@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:793DC2,100:060057&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 다재다능한 개발자가 되기위해! </h2>
   <div style="font-weight: 700; font-size: 15px; color: #282d33;"> 
