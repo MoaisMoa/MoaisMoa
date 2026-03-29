@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=HeeJinHub)
+
+
+<!-- 기술 스택 -->
+<p>
+  <img src="https://img.shields.io/badge/Java-b07219?style=flat-square&logoColor=white" />
+  
+</p>
