@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&text=HeeJinHub)
-
 
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b366ff,100:2b1fd1&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=&fontColor=ffffff&fontSize=50" />
