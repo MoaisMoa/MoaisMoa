@@ -44,6 +44,10 @@
   <a href="mailto:mom.moom.mu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
   </a>
+  
   <br><br>
-  [![GitGarden](https://gitgarden.marshallku.dev/?user_name=MoaisMoa)]
+
+  <a href="https://github.com/marshallku/gitgarden" target="_blank">
+    <img src="https://gitgarden.marshallku.dev/?user_name=MoaisMoa" alt="GitGarden" />
+  </a>
 </div>
