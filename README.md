@@ -39,42 +39,41 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
   <br>
 
-  <div align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px;">
-    <h3> 01. 프로젝트 이름 </h3>
-    <img src="https://via.placeholder.com/800x350" width="100%">
-    <p align="center"><i>"이 프로젝트는 어떠어떠한 문제를 해결하기 위해 제작되었습니다."</i></p>
-    <ul>
-      <li><b>주요 기능:</b> 기능 A, 기능 B, 기능 C</li>
-      <li><b>사용 기술:</b> Java, Spring Boot, MySQL</li>
-      <li><b>상세 보기:</b> <a href="https://github.com/아이디/프로젝트1">GitHub Repository</a></li>
-    </ul>
-  </div>
-
-  <br>
-
-  <div align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px;">
-    <h3> 02. 프로젝트 이름 </h3>
-    <img src="https://via.placeholder.com/800x350" width="100%">
-    <p align="center"><i>"프로젝트에 대한 핵심 설명을 적어주세요."</i></p>
-    <ul>
-      <li><b>주요 기능:</b> 기능 A, 기능 B, 기능 C</li>
-      <li><b>사용 기술:</b> React, Node.js, MongoDB</li>
-      <li><b>상세 보기:</b> <a href="https://github.com/아이디/프로젝트2">GitHub Repository</a></li>
-    </ul>
-  </div>
-
-  <br>
-
-  <div align="left" style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 20px; margin-bottom: 20px;">
-    <h3> 03. 프로젝트 이름 </h3>
-    <img src="https://via.placeholder.com/800x350" width="100%">
-    <p align="center"><i>"본인의 역할과 기여도를 짧게 언급해도 좋습니다."</i></p>
-    <ul>
-      <li><b>주요 기능:</b> 기능 A, 기능 B, 기능 C</li>
-      <li><b>사용 기술:</b> JavaScript, jQuery, Oracle</li>
-      <li><b>상세 보기:</b> <a href="https://github.com/아이디/프로젝트3">GitHub Repository</a></li>
-    </ul>
-  </div>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%">
+      </td>
+      <td width="50%" align="left">
+        <h3>01. 프로젝트 이름</h3>
+        <p>프로젝트에 대한 간단한 설명을 적어주세요. 어떤 문제를 해결했는지 강조하면 좋습니다.</p>
+        <b>Stack:</b> React, Spring Boot, MySQL <br>
+        <b>Link:</b> <a href="#">GitHub</a> | <a href="#">Demo</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%">
+      </td>
+      <td width="50%" align="left">
+        <h3>02. 프로젝트 이름</h3>
+        <p>두 번째 프로젝트의 핵심 기능을 적어주세요. 본인이 기여한 핵심 로직을 언급해도 좋습니다.</p>
+        <b>Stack:</b> Java, Oracle, jQuery <br>
+        <b>Link:</b> <a href="#">GitHub</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%">
+      </td>
+      <td width="50%" align="left">
+        <h3>03. 프로젝트 이름</h3>
+        <p>세 번째 프로젝트의 특징을 간결하게 설명해 주세요.</p>
+        <b>Stack:</b> Next.js, TypeScript, AWS <br>
+        <b>Link:</b> <a href="#">GitHub</a> | <a href="#">Notion</a>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
