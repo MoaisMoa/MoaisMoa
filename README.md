@@ -88,14 +88,14 @@
     </tr>
     <tr>
       <td width="40%" align="center">
-        <img src="https://github.com/user-attachments/assets/c66e44ed-1a00-47ad-b9cf-8eb7ca14133f" width="100%" style="border-radius: 10px;" alt="영화 토너먼트 프로젝트">
+        <img src="https://github.com/user-attachments/assets/c66e44ed-1a00-47ad-b9cf-8eb7ca14133f" width="100%" style="border-radius: 10px;" alt="조은무비">
         <br>
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Joeun-Movie.git" target="_blank">Joeun-Movie</a>
       </td>
       <td width="60%" align="left">
-        <h3>🎬 무비 초이스 — 영화 토너먼트 & 리뷰 플랫폼</h3>
+        <h3>🎬 조은무비(JoeunMovie) - 영화 토너먼트 & 리뷰 플랫폼</h3>
         <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (2주 / 4명)</p>
-        <p><b>👤 역할:</b> 화면 설계 및 프론트엔드 기능 구현, 데이터베이스 설계</p>
+        <p><b>👤 역할:</b> 사용자 인증(로그인/회원가입) 풀스택 구현, <b>최종 발표 담당</b></p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
