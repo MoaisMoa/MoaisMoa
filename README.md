@@ -34,6 +34,8 @@
     <tr>
       <td width="40%" align="center">
         <img src="https://github.com/user-attachments/assets/8f50459c-0ae1-4026-bfb2-08486555373d" width="100%" style="border-radius: 10px;" alt="모임찾아봐">
+        <br>
+        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">Durudurub-Refactoring</a>
       </td>
       <td width="60%" align="left">
         <h3>🌱 두루두룹 - React 리팩토링</h3>
@@ -55,17 +57,18 @@
           <li>📝 <b>게시판 CRUD:</b> 게시글·댓글·좋아요 REST API 연동</li>
           <li>🗺️ <b>지도 기반 탐색:</b> Leaflet.js 위치 표시</li>
         </ul>
-        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">https://github.com/MoaisMoa/Durudurub-Refactoring.git</a>
       </td>
     </tr>
     <tr>
       <td width="40%" align="center">
         <img src="https://github.com/user-attachments/assets/b48e1d50-669a-49d6-a702-2a0d8c413c61" width="100%" style="border-radius: 10px;" alt="두루두룹 소셜 플랫폼">
+        <br>
+        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-First.git" target="_blank">Durudurub-First</a>
       </td>
       <td width="60%" align="left">
         <h3>📌 두루두룹 (Duru Durub) — 소셜 모임 플랫폼</h3>
         <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (5주 / 4명)</p>
-        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>👤 역할:</b> 화면설계서 작성, UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
           <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
@@ -81,7 +84,6 @@
           <li>🗺️ <b>지도 연동:</b> Kakao Maps API 기반 모임 위치 표시</li>
           <li>🔐 <b>인증:</b> Spring Security 세션 기반 인증 구현</li>
         </ul>
-        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-First.git" target="_blank">https://github.com/MoaisMoa/Durudurub-First.git</a>
       </td>
     </tr>
   </table>
