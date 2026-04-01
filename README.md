@@ -39,38 +39,40 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
   <br>
 
-  <table>
+  <table width="100%">
     <tr>
-      <td width="50%" align="center">
-        <img src="https://via.placeholder.com/400x250" width="100%">
+      <td width="45%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%" style="border-radius: 10px;">
       </td>
-      <td width="50%" align="left">
-        <h3>01. 프로젝트 이름</h3>
-        <p>프로젝트에 대한 간단한 설명을 적어주세요. 어떤 문제를 해결했는지 강조하면 좋습니다.</p>
-        <b>Stack:</b> React, Spring Boot, MySQL <br>
-        <b>Link:</b> <a href="#">GitHub</a> | <a href="#">Demo</a>
+      <td width="55%" align="left">
+        <h3>🌱 두루두룹 - React 리팩토링</h3>
+        <p>기존 프로젝트를 React로 리팩토링하여 컴포넌트 기반 아키텍처를 적용하고 유지보수성을 향상시킨 프로젝트입니다.</p>
+        <b>Stack:</b> React, JavaScript, CSS <br>
+        <b>Link:</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">GitHub Repository</a>
       </td>
     </tr>
+    
     <tr>
-      <td width="50%" align="center">
-        <img src="https://via.placeholder.com/400x250" width="100%">
+      <td width="45%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%" style="border-radius: 10px;">
       </td>
-      <td width="50%" align="left">
+      <td width="55%" align="left">
         <h3>02. 프로젝트 이름</h3>
         <p>두 번째 프로젝트의 핵심 기능을 적어주세요. 본인이 기여한 핵심 로직을 언급해도 좋습니다.</p>
         <b>Stack:</b> Java, Oracle, jQuery <br>
         <b>Link:</b> <a href="#">GitHub</a>
       </td>
     </tr>
+    
     <tr>
-      <td width="50%" align="center">
-        <img src="https://via.placeholder.com/400x250" width="100%">
+      <td width="45%" align="center">
+        <img src="https://via.placeholder.com/400x250" width="100%" style="border-radius: 10px;">
       </td>
-      <td width="50%" align="left">
+      <td width="55%" align="left">
         <h3>03. 프로젝트 이름</h3>
         <p>세 번째 프로젝트의 특징을 간결하게 설명해 주세요.</p>
         <b>Stack:</b> Next.js, TypeScript, AWS <br>
-        <b>Link:</b> <a href="#">GitHub</a> | <a href="#">Notion</a>
+        <b>Link:</b> <a href="#">GitHub</a>
       </td>
     </tr>
   </table>
