@@ -20,14 +20,12 @@
       <td align="center" width="50%">
         <a href="https://github.com/MoaisMoa/Durudurub-Refactoring">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoaisMoa&repo=Durudurub-Refactoring&theme=tokyonight" />
-        </a><br>
-        <p style="color: #c9d1d9; font-size: 13px;">기존 프로젝트의 구조 개선 및 성능 최적화 리팩토링</p>
+        </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/MoaisMoa/Durudurub-First">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoaisMoa&repo=Durudurub-First&theme=tokyonight" />
-        </a><br>
-        <p style="color: #c9d1d9; font-size: 13px;">전통주 커뮤니티 서비스 '두루두룹' 초기 모델</p>
+        </a>
       </td>
     </tr>
     <tr>
@@ -35,8 +33,7 @@
         <br>
         <a href="https://github.com/MoaisMoa/Joeun-Movie">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=MoaisMoa&repo=Joeun-Movie&theme=tokyonight" />
-        </a><br>
-        <p style="color: #c9d1d9; font-size: 13px;">사용자 맞춤형 영화 정보 제공 서비스 '조은무비'</p>
+        </a>
       </td>
     </tr>
   </table>
