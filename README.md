@@ -39,31 +39,63 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
   <br>
 
-  <table>
+  <table width="100%">
     <tr>
-      <td width="33%" align="center">
+      <td width="40%" align="center">
         <a href="프로젝트_링크_1">
-          <img src="https://github.com/user-attachments/assets/이미지_ID" width="100%" alt="Project 1"/><br />
-          <b>프로젝트 이름 1</b>
+          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+1" width="100%" style="border-radius: 10px;" alt="Project 1"/>
         </a>
-        <br />
-        <small>프로젝트에 대한 짧은 설명<br/>(예: React, Spring Boot)</small>
       </td>
-      <td width="33%" align="center">
+      <td width="60%" align="left">
+        <h3> 🏷️ 프로젝트 이름 1 </h3>
+        <p> 프로젝트에 대한 핵심 설명을 적어주세요. 어떤 문제를 해결했는지 강조하면 좋습니다. </p>
+        <p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+        </p>
+        <a href="프로젝트_링크_1"><b>View Project Details →</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center">
         <a href="프로젝트_링크_2">
-          <img src="https://github.com/user-attachments/assets/이미지_ID" width="100%" alt="Project 2"/><br />
-          <b>프로젝트 이름 2</b>
+          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+2" width="100%" style="border-radius: 10px;" alt="Project 2"/>
         </a>
-        <br />
-        <small>프로젝트에 대한 짧은 설명<br/>(예: MySQL, Java)</small>
       </td>
-      <td width="33%" align="center">
+      <td width="60%" align="left">
+        <h3> 🏷️ 프로젝트 이름 2 </h3>
+        <p> 프로젝트의 주요 기능과 본인이 기여한 역할을 간단히 서술하세요. </p>
+        <p>
+          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        </p>
+        <a href="프로젝트_링크_2"><b>View Project Details →</b></a>
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center">
         <a href="프로젝트_링크_3">
-          <img src="https://github.com/user-attachments/assets/이미지_ID" width="100%" alt="Project 3"/><br />
-          <b>프로젝트 이름 3</b>
+          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+3" width="100%" style="border-radius: 10px;" alt="Project 3"/>
         </a>
-        <br />
-        <small>프로젝트에 대한 짧은 설명<br/>(예: Figma, JS)</small>
+      </td>
+      <td width="60%" align="left">
+        <h3> 🏷️ 프로젝트 이름 3 </h3>
+        <p> 사용자의 피드백을 반영해 개선했던 경험이 있다면 적어주세요. </p>
+        <p>
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
+        </p>
+        <a href="프로젝트_링크_3"><b>View Project Details →</b></a>
       </td>
     </tr>
   </table>
