@@ -42,18 +42,22 @@
   <table width="100%">
     <tr>
       <td width="40%" align="center">
-        <a href="프로젝트_링크_1">
-          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+1" width="100%" style="border-radius: 10px;" alt="Project 1"/>
+        <a href="두루두룹_리포지토리_링크">
+          <img src="https://github.com/user-attachments/assets/두루두룹_이미지_ID" width="100%" style="border-radius: 10px;" alt="DuruDurup Project"/>
         </a>
       </td>
       <td width="60%" align="left">
-        <h3> 🏷️ 프로젝트 이름 1 </h3>
-        <p> 프로젝트에 대한 핵심 설명을 적어주세요. 어떤 문제를 해결했는지 강조하면 좋습니다. </p>
+        <h3> 🏷️ 두루두룹 (DuruDurup) </h3>
+        <p><b>관심사 기반 소셜 모임 플랫폼</b></p>
+        <p>기존 Thymeleaf 기반의 모놀리식 구조를 <b>React + Spring Boot REST API로 분리 리팩토링</b>하여 유지보수성과 확장성을 높였습니다.</p>
         <p>
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
           <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
         </p>
-        <a href="프로젝트_링크_1"><b>View Project Details →</b></a>
+        <p><small>🛠 OpenAI API, TossPayments, Leaflet.js, OAuth 2.0 (Social Login)</small></p>
+        <a href="두루두룹_리포지토리_링크"><b>View Project Details →</b></a>
       </td>
     </tr>
   </table>
@@ -64,7 +68,7 @@
     <tr>
       <td width="40%" align="center">
         <a href="프로젝트_링크_2">
-          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+2" width="100%" style="border-radius: 10px;" alt="Project 2"/>
+          <img src="https://via.placeholder.com/400x220.png?text=Coming+Soon" width="100%" style="border-radius: 10px;" alt="Project 2"/>
         </a>
       </td>
       <td width="60%" align="left">
@@ -85,7 +89,7 @@
     <tr>
       <td width="40%" align="center">
         <a href="프로젝트_링크_3">
-          <img src="https://via.placeholder.com/400x220.png?text=Project+Thumbnail+3" width="100%" style="border-radius: 10px;" alt="Project 3"/>
+          <img src="https://via.placeholder.com/400x220.png?text=Coming+Soon" width="100%" style="border-radius: 10px;" alt="Project 3"/>
         </a>
       </td>
       <td width="60%" align="left">
