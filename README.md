@@ -86,6 +86,33 @@
         </ul>
       </td>
     </tr>
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://github.com/user-attachments/assets/c66e44ed-1a00-47ad-b9cf-8eb7ca14133f" width="100%" style="border-radius: 10px;" alt="영화 토너먼트 프로젝트">
+        <br>
+        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Joeun-Movie.git" target="_blank">Joeun-Movie</a>
+      </td>
+      <td width="60%" align="left">
+        <h3>🎬 무비 초이스 — 영화 토너먼트 & 리뷰 플랫폼</h3>
+        <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (2주 / 4명)</p>
+        <p><b>👤 역할:</b> 화면 설계 및 프론트엔드 기능 구현, 데이터베이스 설계</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+          <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        </p>
+        <hr>
+        <b>✨ 주요 구현 기능:</b>
+        <ul>
+          <li>🏆 <b>영화 토너먼트:</b> 선호하는 영화를 선택하는 이상형 월드컵 기능</li>
+          <li>✍️ <b>리뷰 시스템:</b> 영화별 평점 및 리뷰 작성/조회 기능</li>
+          <li>🛠 <b>관리자 페이지:</b> 영화 데이터 및 회원 관리를 위한 CRUD 구현</li>
+          <li>🔐 <b>사용자 인증:</b> 세션 방식의 로그인 및 회원가입 기능</li>
+        </ul>
+      </td>
+    </tr>
   </table>
   <br><br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔗 Contact me </h2>
