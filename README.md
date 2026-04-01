@@ -42,9 +42,6 @@
   <h3> 🏷️ 두루두룹 (DuruDurup) </h3>
   <p><b>관심사 기반 소셜 모임 플랫폼</b></p>
 
-  <a href="https://github.com/사용자계정/두루두룹-리포지토리">
-    <img src="https://github.com/user-attachments/assets/959d4156-47aa-4ccf-b498-36bb213a011e" width="80%" style="border-radius: 15px;" alt="DuruDurup Project"/>
-  </a>
 
   <br><br>
 
