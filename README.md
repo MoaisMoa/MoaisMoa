@@ -95,7 +95,7 @@
       <td width="60%" align="left">
         <h3>🎬 조은무비(JoeunMovie) - 영화 토너먼트 & 리뷰 플랫폼</h3>
         <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (2주 / 4명)</p>
-        <p><b>👤 역할:</b> 사용자 인증(로그인/회원가입) 풀스택 구현, <b>최종 발표 담당</b></p>
+        <p><b>👤 역할:</b> 사용자 인증(로그인/회원가입) 풀스택 구현, 최종 발표 담당</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
@@ -117,8 +117,19 @@
   <br><br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔗 Contact me </h2>
   <br>
+  <img src="https://github.com/user-attachments/assets/66e68e70-7051-4462-9ccb-6f198b1535c5" width="50%" style="border-radius: 15px;" alt="contact_image" />
+  <br><br>
+  <div style="font-size: 15px; line-height: 2;">
+    <b>Notion:</b> <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank">HeeJin's Portfolio</a><br>
+    <b>Email:</b> <a href="mailto:gmlenddk@naver.com">gmlenddk@naver.com</a> / <a href="mailto:mom.moom.mu@gmail.com">mom.moom.mu@gmail.com</a><br>
+    <b>Phone:</b> 010-8334-4161
+  </div>
+  <br>
   <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
+  </a>
+  <a href="mailto:gmlenddk@naver.com">
+    <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
   </a>
   <a href="mailto:mom.moom.mu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
