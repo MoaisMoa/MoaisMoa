@@ -46,6 +46,7 @@
   </a>
   
   <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoaisMoa)](https://github.com/anuraghazra/github-readme-stats)
-출처: https://hulrud.tistory.com/3 [주독야독:티스토리]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoaisMoa&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MoaisMoa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
