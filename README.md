@@ -41,51 +41,58 @@
 
   <table width="100%">
     <tr>
-      <td width="45%" align="center">
+      <td width="40%" align="center">
         <img src="https://github.com/user-attachments/assets/8f50459c-0ae1-4026-bfb2-08486555373d" width="100%" style="border-radius: 10px;" alt="모임찾아봐">
-        <br><br>
-        <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="repo">
-        </a>
       </td>
-      <td width="55%" align="left">
+      <td width="60%" align="left">
         <h3>🌱 두루두룹 - React 리팩토링</h3>
         <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (5주 / 4명)</p>
-        <p><b>👤 역할:</b> UI 구상, 결제, 메인/모임 페이지, 카테고리 필터</p>
-        <p><b>🛠 Tech:</b> SpringBoot, React, TypeScript, MySQL, TossPayments</p>
+        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white">
+        </p>
         <hr>
-        <b>✨ Key Features:</b>
+        <b>✨ 주요 구현 기능:</b>
         <ul>
           <li>🤖 <b>AI 검색:</b> OpenAI API 기반 자연어 모임 검색</li>
-          <li>💳 <b>결제:</b> 토스 페이먼츠 연동 프리미엄 구독</li>
-          <li>🔐 <b>인증:</b> OAuth 2.0 (카카오/네이버/구글) + JWT</li>
-          <li>📝 <b>커뮤니티:</b> 게시판 CRUD 및 좋아요 REST API</li>
-          <li>🗺️ <b>지도:</b> Leaflet.js 기반 위치 탐색</li>
+          <li>💳 <b>결제:</b> 토스 페이먼츠 연동 프리미엄 구독 결제</li>
+          <li>🔐 <b>소셜 로그인:</b> OAuth 2.0 (카카오/네이버/구글) + JWT</li>
+          <li>📝 <b>게시판 CRUD:</b> 게시글·댓글·좋아요 REST API 연동</li>
+          <li>🗺️ <b>지도 기반 탐색:</b> Leaflet.js 위치 표시</li>
         </ul>
+        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">https://github.com/MoaisMoa/Durudurub-Refactoring.git</a>
       </td>
     </tr>
     
     <tr>
-      <td width="45%" align="center">
+      <td width="40%" align="center">
         <img src="https://via.placeholder.com/400x250" width="100%" style="border-radius: 10px;">
       </td>
-      <td width="55%" align="left">
-        <h3>02. 두 번째 프로젝트 이름</h3>
-        <p>프로젝트의 핵심 기능을 간단히 설명해주세요.</p>
-        <b>Stack:</b> 사용 기술 <br>
-        <b>Link:</b> <a href="#">GitHub</a>
+      <td width="60%" align="left">
+        <h3>02. 프로젝트 이름</h3>
+        <p>프로젝트 정보를 입력해 주세요.</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고명&logoColor=white">
+        </p>
+        <b>GitHUB :</b> <a href="#">링크를 입력하세요</a>
       </td>
     </tr>
     
     <tr>
-      <td width="45%" align="center">
+      <td width="40%" align="center">
         <img src="https://via.placeholder.com/400x250" width="100%" style="border-radius: 10px;">
       </td>
-      <td width="55%" align="left">
-        <h3>03. 세 번째 프로젝트 이름</h3>
-        <p>프로젝트의 핵심 기능을 간단히 설명해주세요.</p>
-        <b>Stack:</b> 사용 기술 <br>
-        <b>Link:</b> <a href="#">GitHub</a>
+      <td width="60%" align="left">
+        <h3>03. 프로젝트 이름</h3>
+        <p>프로젝트 정보를 입력해 주세요.</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고명&logoColor=white">
+        </p>
+        <b>GitHUB :</b> <a href="#">링크를 입력하세요</a>
       </td>
     </tr>
   </table>
