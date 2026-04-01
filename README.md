@@ -39,35 +39,9 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
   <br>
 
-  <h3> 🏷️ 두루두룹 (DuruDurup) </h3>
-  <p><b>관심사 기반 소셜 모임 플랫폼</b></p>
-
 
   <br><br>
 
-  <blockquote>
-    기존 Thymeleaf 기반 프로젝트를 <b>React + Spring Boot REST API로 분리 리팩토링</b>하여 성능과 사용자 경험을 개선했습니다.
-  </blockquote>
-
-  <p>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square&logo=Toss&logoColor=white">
-    <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=OpenAI&logoColor=white">
-  </p>
-
-  <a href="https://github.com/사용자계정/두루두룹-리포지토리"><b>[상세 내용 보기]</b></a>
-
-  <br><br>
-  <hr style="border: 0.5px solid #d8dee4; width: 50%;">
-  <br>
-
-  <h3> 🏷️ Project 2 (준비 중) </h3>
-  <p>Coming Soon...</p>
-
-  <br>
 
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔗 Contact me </h2>
   <br>
