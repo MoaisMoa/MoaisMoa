@@ -43,12 +43,25 @@
     <tr>
       <td width="45%" align="center">
         <img src="https://github.com/user-attachments/assets/8f50459c-0ae1-4026-bfb2-08486555373d" width="100%" style="border-radius: 10px;" alt="모임찾아봐">
+        <br><br>
+        <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" alt="repo">
+        </a>
       </td>
       <td width="55%" align="left">
         <h3>🌱 두루두룹 - React 리팩토링</h3>
-        <p>기존 프로젝트를 React로 리팩토링하여 컴포넌트 기반 아키텍처를 적용하고 유지보수성을 향상시킨 프로젝트입니다.</p>
-        <b>Stack:</b> React, JavaScript, CSS <br>
-        <b>Link:</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">GitHub Repository</a>
+        <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (5주 / 4명)</p>
+        <p><b>👤 역할:</b> UI 구상, 결제, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>🛠 Tech:</b> SpringBoot, React, TypeScript, MySQL, TossPayments</p>
+        <hr>
+        <b>✨ Key Features:</b>
+        <ul>
+          <li>🤖 <b>AI 검색:</b> OpenAI API 기반 자연어 모임 검색</li>
+          <li>💳 <b>결제:</b> 토스 페이먼츠 연동 프리미엄 구독</li>
+          <li>🔐 <b>인증:</b> OAuth 2.0 (카카오/네이버/구글) + JWT</li>
+          <li>📝 <b>커뮤니티:</b> 게시판 CRUD 및 좋아요 REST API</li>
+          <li>🗺️ <b>지도:</b> Leaflet.js 기반 위치 탐색</li>
+        </ul>
       </td>
     </tr>
     
