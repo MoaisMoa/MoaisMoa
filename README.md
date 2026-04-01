@@ -41,22 +41,37 @@
 
   <table width="100%">
     <tr>
-      <td width="40%" align="center">
+      <td width="35%" align="center">
         <a href="두루두룹_리포지토리_링크">
           <img src="https://github.com/user-attachments/assets/두루두룹_이미지_ID" width="100%" style="border-radius: 10px;" alt="DuruDurup Project"/>
         </a>
       </td>
-      <td width="60%" align="left">
+      <td width="65%" align="left">
         <h3> 🏷️ 두루두룹 (DuruDurup) </h3>
         <p><b>관심사 기반 소셜 모임 플랫폼</b></p>
-        <p>기존 Thymeleaf 기반의 모놀리식 구조를 <b>React + Spring Boot REST API로 분리 리팩토링</b>하여 유지보수성과 확장성을 높였습니다.</p>
-        <p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-        </p>
-        <p><small>🛠 OpenAI API, TossPayments, Leaflet.js, OAuth 2.0 (Social Login)</small></p>
+        <p>기존 Thymeleaf 기반 프로젝트를 <b>React + Spring Boot REST API로 분리 리팩토링</b>하여 성능과 사용자 경험을 개선했습니다.</p>
+        
+        <p><b>Stacks</b></p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white">
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=TailwindCSS&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        
+        <p><b>Services & APIs</b></p>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=OpenAI&logoColor=white">
+        <img src="https://img.shields.io/badge/Toss_Payments-0064FF?style=flat-square&logo=Toss&logoColor=white">
+        <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=Leaflet&logoColor=white">
+        <br>
+        <img src="https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=Kakao&logoColor=black">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=Google&logoColor=white">
+
+        <br><br>
         <a href="두루두룹_리포지토리_링크"><b>View Project Details →</b></a>
       </td>
     </tr>
@@ -66,12 +81,12 @@
 
   <table width="100%">
     <tr>
-      <td width="40%" align="center">
+      <td width="35%" align="center">
         <a href="프로젝트_링크_2">
           <img src="https://via.placeholder.com/400x220.png?text=Coming+Soon" width="100%" style="border-radius: 10px;" alt="Project 2"/>
         </a>
       </td>
-      <td width="60%" align="left">
+      <td width="65%" align="left">
         <h3> 🏷️ 프로젝트 이름 2 </h3>
         <p> 프로젝트의 주요 기능과 본인이 기여한 역할을 간단히 서술하세요. </p>
         <p>
@@ -87,12 +102,12 @@
 
   <table width="100%">
     <tr>
-      <td width="40%" align="center">
+      <td width="35%" align="center">
         <a href="프로젝트_링크_3">
           <img src="https://via.placeholder.com/400x220.png?text=Coming+Soon" width="100%" style="border-radius: 10px;" alt="Project 3"/>
         </a>
       </td>
-      <td width="60%" align="left">
+      <td width="65%" align="left">
         <h3> 🏷️ 프로젝트 이름 3 </h3>
         <p> 사용자의 피드백을 반영해 개선했던 경험이 있다면 적어주세요. </p>
         <p>
