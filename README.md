@@ -70,7 +70,7 @@
     
     <tr>
       <td width="40%" align="center">
-        <img src="https://github.com/user-attachments/assets/b48e1d50-669a-49d6-a702-2a0d8c413c61" width="100%" style="border-radius: 10px;" alt="Gemini_Generated_Image">
+        <img src="https://github.com/user-attachments/assets/b48e1d50-669a-49d6-a702-2a0d8c413c61" width="100%" style="border-radius: 10px;" alt="두루두룹 소셜 플랫폼">
       </td>
       <td width="60%" align="left">
         <h3>📌 두루두룹 (Duru Durub) — 소셜 모임 플랫폼</h3>
