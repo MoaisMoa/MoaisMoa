@@ -47,7 +47,10 @@
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=MoaisMoa&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaisMoa&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=MoaisMoa&show_icons=true&theme=tokyonight" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoaisMoa&layout=compact&theme=tokyonight" />
+  </div>
 
 </div>
