@@ -67,6 +67,33 @@
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">https://github.com/MoaisMoa/Durudurub-Refactoring.git</a>
       </td>
     </tr>
+
+    <tr>
+      <td width="40%" align="center">
+        <img src="https://github.com/user-attachments/assets/b48e1d50-669a-49d6-a702-2a0d8c413c61" width="100%" style="border-radius: 10px;" alt="두루두룹 소셜 플랫폼">
+      </td>
+      <td width="60%" align="left">
+        <h3>📌 두루두룹 (Duru Durub) — 소셜 모임 플랫폼</h3>
+        <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (5주 / 4명)</p>
+        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+        </p>
+        <hr>
+        <b>✨ 주요 구현 기능:</b>
+        <ul>
+          <li>🤖 <b>AI 검색:</b> OpenAI API 기반 자연어 모임 검색 (비동기 통신)</li>
+          <li>📝 <b>게시판 CRUD:</b> 게시글·댓글·좋아요 및 페이징 처리</li>
+          <li>💳 <b>결제 시스템:</b> 토스 페이먼츠 연동 프리미엄 구독 결제</li>
+          <li>🗺️ <b>지도 연동:</b> Kakao Maps API 기반 모임 위치 표시</li>
+          <li>🔐 <b>인증:</b> Spring Security 세션 기반 인증 구현</li>
+        </ul>
+        <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-First.git" target="_blank">https://github.com/MoaisMoa/Durudurub-First.git</a>
+      </td>
+    </tr>
   </table>
 
   <br><br>
