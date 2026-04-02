@@ -122,17 +122,17 @@
     <td width="40%" align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/66e68e70-7051-4462-9ccb-6f198b1535c5" width="100%" style="border-radius: 15px;" alt="contact_image" />
     </td>
-    <td width="60%" style="padding-left: 40px; border: none; font-size: 16px; line-height: 2.5; text-align: left; vertical-align: middle;">
-      <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank">
-        <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 5px;">
+    <td width="60%" style="padding-left: 40px; border: none; font-size: 20px; line-height: 3; text-align: left; vertical-align: middle;">
+      <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
         HeeJin's Portfolio
       </a><br>
-      <a href="mailto:gmlenddk@naver.com">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" style="vertical-align: middle; margin-right: 5px;">
+      <a href="mailto:gmlenddk@naver.com" style="text-decoration: none; color: inherit; font-weight: bold;">
+        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
         gmlenddk@naver.com
       </a><br>
-      <a href="tel:010-8334-4161">
-        <img src="https://img.shields.io/badge/Phone-FF8C00?style=flat-square&logo=Phone&logoColor=white" style="vertical-align: middle; margin-right: 5px;">
+      <a href="tel:010-8334-4161" style="text-decoration: none; color: inherit; font-weight: bold;">
+        <img src="https://img.shields.io/badge/Phone-FF8C00?style=for-the-badge&logo=Phone&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
         010-8334-4161
       </a>
     </td>
