@@ -39,7 +39,7 @@
       </td>
       <td width="60%" align="left">
         <h3>🌱 두루두룹 - React 리팩토링</h3>
-        <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (5주 / 4명)</p>
+        <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (4명)</p>
         <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -67,7 +67,7 @@
       </td>
       <td width="60%" align="left">
         <h3>📌 두루두룹 (Duru Durub) — 소셜 모임 플랫폼</h3>
-        <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (5주 / 4명)</p>
+        <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (4명)</p>
         <p><b>👤 역할:</b> 화면설계서 작성, UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
@@ -94,7 +94,7 @@
       </td>
       <td width="60%" align="left">
         <h3>🎬 조은무비(JoeunMovie) - 영화 토너먼트 & 리뷰 플랫폼</h3>
-        <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (2주 / 4명)</p>
+        <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (4명)</p>
         <p><b>👤 역할:</b> 사용자 인증(로그인/회원가입) 풀스택 구현, 최종 발표 담당</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
@@ -117,26 +117,26 @@
   <br><br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔗 Contact me </h2>
   <br>
-<table width="80%" border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td width="40%" align="center" style="border: none;">
-      <img src="https://github.com/user-attachments/assets/66e68e70-7051-4462-9ccb-6f198b1535c5" width="100%" style="border-radius: 15px;" alt="contact_image" />
-    </td>
-    <td width="60%" style="padding-left: 40px; border: none; font-size: 20px; line-height: 3; text-align: left; vertical-align: middle;">
-      <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
-        HeeJin's Portfolio
-      </a><br>
-      <a href="mailto:gmlenddk@naver.com" style="text-decoration: none; color: inherit; font-weight: bold;">
-        <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
-        gmlenddk@naver.com
-      </a><br>
-      <a href="tel:010-8334-4161" style="text-decoration: none; color: inherit; font-weight: bold;">
-        <img src="https://img.shields.io/badge/Phone-FF8C00?style=for-the-badge&logo=Phone&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
-        010-8334-4161
-      </a>
-    </td>
-  </tr>
-</table>
+  <table width="80%" border="0" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+      <td width="40%" align="center" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/e5f14da7-6f5e-46d1-979f-807e75e564d6" width="100%" style="border-radius: 15px;" alt="희진" />
+      </td>
+      <td width="60%" style="padding-left: 40px; border: none; font-size: 20px; line-height: 3; text-align: left; vertical-align: middle;">
+        <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
+          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
+          HeeJin's Portfolio
+        </a><br>
+        <a href="mailto:gmlenddk@naver.com" style="text-decoration: none; color: inherit; font-weight: bold;">
+          <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
+          gmlenddk@naver.com
+        </a><br>
+        <a href="tel:010-8334-4161" style="text-decoration: none; color: inherit; font-weight: bold;">
+          <img src="https://img.shields.io/badge/Phone-FF8C00?style=for-the-badge&logo=Phone&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
+          010-8334-4161
+        </a>
+      </td>
+    </tr>
+  </table>
   <br><br>
 </div>
