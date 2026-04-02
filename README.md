@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=180&text=Hello%20HeeJin%20GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" alt="header" />
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33; display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/user-attachments/assets/32cc1f1a-9c40-493a-a1e8-2c1bf86dc54e" width="30" height="30" style="margin-right: 10px;">
-    다재다능한 개발자가 되기위해!
+    다재다능한 개발자가 되기위해 노력하는 박희진 입니다.
   </h2>
   <div style="font-weight: 700; font-size: 15px; color: #282d33; line-height: 1.6;">
     좋은 질문이 좋은 코드를 만든다고 생각합니다.<br>
@@ -39,8 +39,8 @@
       </td>
       <td width="60%" align="left">
         <h3>🌱 두루두룹 - React 리팩토링</h3>
-        <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (5주 / 4명)</p>
-        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>📅 기간:</b> 2026.02 ~ 2026.03 (4명)</p>
+        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터 기능</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -67,8 +67,8 @@
       </td>
       <td width="60%" align="left">
         <h3>📌 두루두룹 (Duru Durub) — 소셜 모임 플랫폼</h3>
-        <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (5주 / 4명)</p>
-        <p><b>👤 역할:</b> 화면설계서 작성, UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터</p>
+        <p><b>📅 기간:</b> 2026.01 ~ 2026.02 (4명)</p>
+        <p><b>👤 역할:</b> UI 구상, 결제 기능, 메인/모임 페이지, 카테고리 필터 기능, 화면설계서 작성</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
           <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white">
@@ -93,8 +93,8 @@
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Joeun-Movie.git" target="_blank">Joeun-Movie</a>
       </td>
       <td width="60%" align="left">
-        <h3>🎬 조은무비(JoeunMovie) - 영화 토너먼트 & 리뷰 플랫폼</h3>
-        <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (2주 / 4명)</p>
+        <h3>🎬 조은무비(JoeunMovie) - 영화 리뷰 플랫폼</h3>
+        <p><b>📅 기간:</b> 2025.12.17 ~ 2025.12.30 (4명)</p>
         <p><b>👤 역할:</b> 사용자 인증(로그인/회원가입) 풀스택 구현, 최종 발표 담당</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=Java&logoColor=white">
@@ -106,7 +106,7 @@
         <hr>
         <b>✨ 주요 구현 기능:</b>
         <ul>
-          <li>🏆 <b>영화 토너먼트:</b> 선호하는 영화를 선택하는 이상형 월드컵 기능</li>
+          <li>🏆 <b>영화 토너먼트:</b> 선호하는 영화를 선택하는 토너먼트 게임</li>
           <li>✍️ <b>리뷰 시스템:</b> 영화별 평점 및 리뷰 작성/조회 기능</li>
           <li>🛠 <b>관리자 페이지:</b> 영화 데이터 및 회원 관리를 위한 CRUD 구현</li>
           <li>🔐 <b>사용자 인증:</b> 세션 방식의 로그인 및 회원가입 기능</li>
