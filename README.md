@@ -117,9 +117,12 @@
   <br><br>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🔗 Contact me </h2>
   <br>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 40px; width: 80%;">
-    <img src="https://github.com/user-attachments/assets/66e68e70-7051-4462-9ccb-6f198b1535c5" width="40%" style="border-radius: 15px;" alt="contact_image" />
-    <div style="font-size: 16px; line-height: 2.5; text-align: left;">
+<table width="80%" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="40%" align="center" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/66e68e70-7051-4462-9ccb-6f198b1535c5" width="100%" style="border-radius: 15px;" alt="contact_image" />
+    </td>
+    <td width="60%" style="padding-left: 40px; border: none; font-size: 16px; line-height: 2.5; text-align: left; vertical-align: middle;">
       <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank">
         <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 5px;">
         HeeJin's Portfolio
@@ -132,7 +135,8 @@
         <img src="https://img.shields.io/badge/Phone-FF8C00?style=flat-square&logo=Phone&logoColor=white" style="vertical-align: middle; margin-right: 5px;">
         010-8334-4161
       </a>
-    </div>
-  </div>
+    </td>
+  </tr>
+</table>
   <br><br>
 </div>
