@@ -119,10 +119,10 @@
   <br>
   <table width="80%" border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
-      <td width="40%" align="center" style="border: none;">
-        <img src="https://github.com/user-attachments/assets/e5f14da7-6f5e-46d1-979f-807e75e564d6" width="100%" style="border-radius: 15px;" alt="희진" />
+      <td width="35%" align="right" style="border: none;">
+        <img src="https://github.com/user-attachments/assets/e5f14da7-6f5e-46d1-979f-807e75e564d6" width="50%" style="border-radius: 15px; min-width: 150px;" alt="희진" />
       </td>
-      <td width="60%" style="padding-left: 40px; border: none; font-size: 20px; line-height: 3; text-align: left; vertical-align: middle;">
+      <td width="65%" style="padding-left: 20px; border: none; font-size: 20px; line-height: 3; text-align: left; vertical-align: middle;">
         <a href="https://www.notion.so/5c3f5bd0833182f1ba2801eeb187523c?source=copy_link" target="_blank" style="text-decoration: none; color: inherit; font-weight: bold;">
           <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" style="vertical-align: middle; margin-right: 10px; height: 25px;">
           HeeJin's Portfolio
