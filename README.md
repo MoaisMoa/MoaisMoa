@@ -34,7 +34,7 @@
     <tr>
       <td width="40%" align="center">
         <!-- 앞서 만든 썸네일 이미지를 깃허브에 업로드한 뒤 src 경로를 변경해주세요 -->
-        <img src="[https://via.placeholder.com/400x250.png?text=Study+Cast+Thumbnail](https://github.com/user-attachments/assets/5b800686-5849-4865-a0f4-ef43d026e9bc)" width="100%" style="border-radius: 10px;" alt="스터디캐스트">
+        <img src="https://github.com/user-attachments/assets/5b800686-5849-4865-a0f4-ef43d026e9bc" width="100%" style="border-radius: 10px;" alt="스터디캐스트">
         <br>
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Study-cast.git">Study-Cast</a>
       </td>
