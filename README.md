@@ -36,7 +36,7 @@
         <!-- 앞서 만든 썸네일 이미지를 깃허브에 업로드한 뒤 src 경로를 변경해주세요 -->
         <img src="https://via.placeholder.com/400x250.png?text=Study+Cast+Thumbnail" width="100%" style="border-radius: 10px;" alt="스터디캐스트">
         <br>
-        <b>GitHUB :</b> <a href="#" ![Uploading Gemini_Generated_Image_l7wrlpl7wrlpl7wr.png…]()="_blank">Study-Cast</a> <!-- 실제 깃허브 리포지토리 링크로 수정해주세요 -->
+        <b>GitHUB :</b> <a hrefhttps://github.com/MoaisMoa/Study-cast.git">Study-Cast</a>
       </td>
       <td width="60%" align="left">
         <h3>🎥 스터디 캐스트 (Study Cast) - 웹 캠 스터디 플랫폼</h3>
