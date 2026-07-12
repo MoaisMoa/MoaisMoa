@@ -33,6 +33,38 @@
   <table width="100%">
     <tr>
       <td width="40%" align="center">
+        <!-- 앞서 만든 썸네일 이미지를 깃허브에 업로드한 뒤 src 경로를 변경해주세요 -->
+        <img src="https://via.placeholder.com/400x250.png?text=Study+Cast+Thumbnail" width="100%" style="border-radius: 10px;" alt="스터디캐스트">
+        <br>
+        <b>GitHUB :</b> <a href="#" target="_blank">Study-Cast</a> <!-- 실제 깃허브 리포지토리 링크로 수정해주세요 -->
+      </td>
+      <td width="60%" align="left">
+        <h3>🎥 스터디 캐스트 (Study Cast) - 웹 캠 스터디 플랫폼</h3>
+        <p><b>📅 기간:</b> 2026.04 ~ 2026.06 (2명)</p>
+        <p><b>👤 역할:</b> 채팅 기능, 캘린더 기능, 마이페이지, ERD 설계, 요구사항 정의서 작성</p>
+        <p><b>🛠 기술스택:</b><br>
+          <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white">
+          <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=WebRTC&logoColor=white">
+          <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white">
+          <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSONWebTokens&logoColor=white">
+        </p>
+        <hr>
+        <b>✨ 주요 구현 기능:</b>
+        <ul>
+          <li>📹 <b>실시간 통신:</b> WebRTC 기반 실시간 웹캠 카메라 및 마이크 스트리밍</li>
+          <li>💬 <b>실시간 채팅:</b> WebSocket을 활용한 채팅 및 스탬프 기능</li>
+          <li>🔐 <b>소셜 로그인:</b> OAuth 2.0 (네이버/구글) + JWT 기반 인증 및 Spring Security 적용</li>
+          <li>📅 <b>학습 관리:</b> 사용자 캘린더 일정 관리 및 마이페이지 기능</li>
+          <li>📑 <b>설계 및 문서화:</b> 서비스 ERD 설계 및 요구사항 정의서 작성</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="40%" align="center">
         <img src="https://github.com/user-attachments/assets/8f50459c-0ae1-4026-bfb2-08486555373d" width="100%" style="border-radius: 10px;" alt="모임찾아봐">
         <br>
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Durudurub-Refactoring.git" target="_blank">Durudurub-Refactoring</a>
