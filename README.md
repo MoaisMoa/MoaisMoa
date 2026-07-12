@@ -33,14 +33,13 @@
   <table width="100%">
     <tr>
       <td width="40%" align="center">
-        <!-- 앞서 만든 썸네일 이미지를 깃허브에 업로드한 뒤 src 경로를 변경해주세요 -->
         <img src="https://github.com/user-attachments/assets/5b800686-5849-4865-a0f4-ef43d026e9bc" width="100%" style="border-radius: 10px;" alt="스터디캐스트">
         <br>
         <b>GitHUB :</b> <a href="https://github.com/MoaisMoa/Study-cast.git">Study-Cast</a>
       </td>
       <td width="60%" align="left">
         <h3>🎥 스터디 캐스트 (Study Cast) - 웹 캠 스터디 플랫폼</h3>
-        <p><b>📅 기간:</b> 2026.04 ~ 2026.06 (2명)</p>
+        <p><b>📅 기간:</b> 2026.04 ~ 2026.07 (2명)</p>
         <p><b>👤 역할:</b> 채팅 기능, 캘린더 기능, 마이페이지, ERD 설계, 요구사항 정의서 작성</p>
         <p><b>🛠 기술스택:</b><br>
           <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
