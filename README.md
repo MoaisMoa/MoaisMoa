@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
   <br>
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Featured Projects </h2>
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🚀 Projects </h2>
   <br>
   <table width="100%">
     <tr>
